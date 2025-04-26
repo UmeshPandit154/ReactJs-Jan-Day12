@@ -1,0 +1,25 @@
+React Router Outlet
+
+
+If you want to load component using URL Patterns
+
+react-router-dom li brary
+
+props.children === Outlet
+
+
+web Sketleton
+
+npm install react-router-dom
+
+
+1. header
+2. main
+   2.1 aside
+   2.2 section   <---- Outlet component
+3. footer
+
+
+1. Home page
+2. Register page
+3. Login page
